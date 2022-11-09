@@ -1,2 +1,2 @@
-#ALEATORIOS EM PY
-## REPOSITORIO CRIADO PARA GUARDAR E EXPOR MEUS CÓDIGOS ALEATÓRIOS EM PYTHON...KK
+##ALEATORIOS EM PY
+# Alguns scripts de testes e tentativas aleatórias em python.
